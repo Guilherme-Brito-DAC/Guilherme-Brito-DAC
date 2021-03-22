@@ -1,16 +1,31 @@
-### Hi there 👋
+### Olá! Me chamo Guilherme Brito
 
-<!--
-**Guilherme-Brito-DAC/Guilherme-Brito-DAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/gfGRNTq.jpg"/>
 
-Here are some ideas to get you started:
+Atualmente estou estudando no Cotemig e estou buscando algum estágio na área de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em grande parte do meu tempo livre estou fazendo projetos pessoais ou jogando com meus amigos
+
+### Javascript Lover
+
+Contatos -
+📫guilhermebritoalmeidacosta@gmail.com
+📞31 98406-2271
+🎮✪Gui#7098
+
+🖥️Techs -
+✔️HTML
+✔️CSS
+✔️Boostrap
+✔️PHP
+✔️C#
+✔️Mysql
+✔️Javascript
+✔️Node
+✔️Svelte
+✔️FontAwesome
+✔️Animate.css
+
+
+
+
