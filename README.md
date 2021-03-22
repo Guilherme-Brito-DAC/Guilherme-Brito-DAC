@@ -1,6 +1,6 @@
 ### Olá! Me chamo Guilherme Brito
 
-<img src="https://i.imgur.com/sVK4bS0.png"/>
+<img src="https://i.imgur.com/TDABtFl.jpg"/>
 
 Atualmente estou estudando no Cotemig e estou buscando algum estágio na área de programação
 
