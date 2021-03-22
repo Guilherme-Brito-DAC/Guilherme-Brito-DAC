@@ -6,8 +6,6 @@ Atualmente estou estudando no Cotemig e estou buscando algum estágio na área d
 
 Em grande parte do meu tempo livre estou fazendo projetos pessoais ou jogando com meus amigos
 
-### Javascript Lover
-
 Contatos - <br>
 <br>
 📫guilhermebritoalmeidacosta@gmail.com <br>
