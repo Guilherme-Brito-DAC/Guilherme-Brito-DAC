@@ -27,7 +27,7 @@ Contatos - <br>
 ✔️Svelte <br>
 ✔️FontAwesome <br>
 ✔️Animate.css <br>
-
+✔️Power BI <br>
 
 
 
