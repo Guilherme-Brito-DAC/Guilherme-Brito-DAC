@@ -4,8 +4,7 @@
 
 Atualmente estou estudando no Cotemig e estou buscando algum estágio na área de programação
 
-Em grande parte do meu tempo livre estou fazendo projetos pessoais ou jogando com meus amigos
-
+Em grande parte do meu tempo livre estou fazendo projetos pessoais
 Contatos - <br>
 <br>
 📫guilhermebritoalmeidacosta@gmail.com <br>
@@ -24,10 +23,7 @@ Contatos - <br>
 ✔️Mysql <br>
 ✔️Javascript <br>
 ✔️Node <br>
-✔️Svelte <br>
-✔️FontAwesome <br>
-✔️Animate.css <br>
-✔️Power BI <br>
+
 
 
 
