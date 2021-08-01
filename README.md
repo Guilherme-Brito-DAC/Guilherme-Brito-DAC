@@ -2,9 +2,10 @@
 
 <img src="https://i.imgur.com/TDABtFl.jpg"/>
 
-Atualmente estou estudando no Cotemig e estou buscando algum estágio na área de programação
+Atualmente estou estagiando como desenvolvedor na CRM Educacional e estudando no Colégio Técnico Cotemig
 
 Em grande parte do meu tempo livre estou fazendo projetos pessoais
+
 Contatos - <br>
 <br>
 📫guilhermebritoalmeidacosta@gmail.com <br>
@@ -15,15 +16,13 @@ Contatos - <br>
 
 🖥️Techs - <br>
 <br>
-✔️HTML <br>
-✔️CSS <br>
+✔️C# ASP.net , .net Framework e Core , Entity Framework <br>
+✔️Node<br>
+✔️PHP<br>
+✔️Java<br>
+✔️HTML<br>
+✔️CSS<br>
+✔️Javascript<br>
+✔️Mysql , SQL server<br>
 ✔️Boostrap <br>
-✔️PHP <br>
-✔️C# <br>
-✔️Mysql <br>
-✔️Javascript <br>
-✔️Node <br>
-
-
-
-
+✔️React <br>
