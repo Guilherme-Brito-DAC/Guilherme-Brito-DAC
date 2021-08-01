@@ -26,3 +26,4 @@ Contatos - <br>
 ✔️Mysql , SQL server<br>
 ✔️Boostrap <br>
 ✔️React <br>
+✔️GIT <br>
