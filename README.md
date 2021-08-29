@@ -22,8 +22,7 @@ Contatos - <br>
 ✔️Java<br>
 ✔️HTML<br>
 ✔️CSS<br>
-✔️Javascript<br>
 ✔️Mysql , SQL server<br>
-✔️Boostrap <br>
+✔️Bootstrap <br>
 ✔️React <br>
 ✔️GIT <br>
