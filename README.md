@@ -1,11 +1,6 @@
 ### Olá! Me chamo Guilherme Brito
 
 
-
-Atualmente estou estagiando como desenvolvedor na CRM Educacional e estudando no Colégio Técnico Cotemig
-
-Em grande parte do meu tempo livre estou fazendo projetos pessoais
-
 Contatos - <br>
 <br>
 📫guilhermebritoalmeidacosta@gmail.com <br>
