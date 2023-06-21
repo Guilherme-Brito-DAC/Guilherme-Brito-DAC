@@ -1,3 +1,5 @@
+<img src="https://github.com/Guilherme-Brito-DAC/Guilherme-Brito-DAC/blob/main/Imagens/capa.gif"/>
+
 <h2 align="left">Hey!! Como vai?</h2>
 
 ###
