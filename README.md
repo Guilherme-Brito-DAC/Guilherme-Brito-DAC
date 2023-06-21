@@ -16,13 +16,6 @@
 
 🖥️ Alguns códigos aleatórios
 
-<h2 align="left">Algumas estatísticas do github porque sim</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Brito-DAC&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-Brito-DAC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <h2 align="left">💻 Tecnologias que eu uso/já usei 📎</h2>
 
 <div align="center">
@@ -101,6 +94,14 @@
 
 ###
 
+<h2 align="left">📊 Algumas estatísticas do github porque sim 📊</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Brito-DAC&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-Brito-DAC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 Ohhh...
 Eu esqueci de falar, mas sou muito fã de ⚡🤘 ROCK N' ROLL 🎧⚡ <a href="https://open.spotify.com/playlist/2pdwOqsrcE5p37nIXiMTNm?si=0b712fb49e4f40ab">Dá uma olhada na minha playlist</a>
 
