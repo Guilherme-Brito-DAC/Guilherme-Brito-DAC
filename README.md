@@ -1,21 +1,29 @@
-<h2 align="left">Hey, What's up?</h2>
+<h2 align="left">Hey!! Como vai?</h2>
 
 ###
 
-<p align="left">My name is Guilherme and i'm a fullstack developer, from Belo horizonte/Brazil<br><br>✨ Creating bugs since 2019<br>💼 I'm currently working at CRM Educacional as a full-stack developer<br>🎲 And ... i play 🎹 keyboard and ⚽ futbol</p>
+<p align="left">Oii, me chamo Guilherme, tenho 19 anos e moro em Belo horizonte/MG <br><br>✨ Programo desde 2019<br>💼 Atualmente trabalho como Desenvolvedor Fullstack na <a href="https://crmeducacional.com/">CRM Educacional</a><br>🎲 Eu toco 🎹 teclado e jogo ⚽ futebol</p>
 
 ###
+
+<h2 align="left">🗂️ O que você encontra no meu Github 🗂️</h2>
+
+👩‍💻 Projetos pessoais e para amigos
+
+⚙️ Projetos freelancers
+
+📑️ Meus trabalhos do colégio e faculdade
+
+🖥️ Alguns códigos aleatórios
+
+<h2 align="left">Algumas estatísticas do github porque sim</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Brito-DAC&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-Brito-DAC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<h3 align="left">All techs that i know</h3>
-
-###
+<h2 align="left">💻 Tecnologias que eu uso/já usei 📎</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -69,7 +77,7 @@
 
 ###
 
-<h3 align="left">How to reach me</h3>
+<h3 align="left">👋 Contatos 👋</h3>
 
 ###
 
@@ -94,9 +102,9 @@
 ###
 
 Ohhh...
-I forgot to tell, but I'm huge fan of ⚡🤘 ROCK N' ROLL 🎧⚡ <a href="https://open.spotify.com/playlist/2pdwOqsrcE5p37nIXiMTNm?si=0b712fb49e4f40ab">Take a look at my playlist</a>
+Eu esqueci de falar, mas sou muito fã de ⚡🤘 ROCK N' ROLL 🎧⚡ <a href="https://open.spotify.com/playlist/2pdwOqsrcE5p37nIXiMTNm?si=0b712fb49e4f40ab">Dá uma olhada na minha playlist</a>
 
-<h3 align="left">What I'm listening</h3>
+<h3 align="left">O que estou escutando...</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=guilhermebritoalmeidacosta)
 
