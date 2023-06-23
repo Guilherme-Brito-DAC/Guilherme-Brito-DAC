@@ -16,7 +16,7 @@
 
 📑️ Meus trabalhos do colégio e faculdade
 
-🖥️ Alguns códigos aleatórios
+🖥️ Alguns códigos aleatórios e desafios de programação
 
 <h2 align="left">💻 Tecnologias que eu uso/já usei 📎</h2>
 
