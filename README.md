@@ -100,7 +100,9 @@ Eu esqueci de falar, mas sou muito fã de ⚡🤘 ROCK N' ROLL 🎧⚡ <a href="
 
 <h3 align="left">O que estou escutando...</h3>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=guilhermebritoalmeidacosta)
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=guilhermebritoalmeidacosta">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=guilhermebritoalmeidacosta" alt="Data Card for Spotify">
+</a>
 
 
 
