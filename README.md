@@ -104,5 +104,6 @@ Eu esqueci de falar, mas sou muito fã de ⚡🤘 ROCK N' ROLL 🎧⚡ <a href="
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=guilhermebritoalmeidacosta" alt="Data Card for Spotify">
 </a>
 
+###
 
-
+![](https://komarev.com/ghpvc/?username=Guilherme-Brito-DAC)
