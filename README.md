@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Oi, me chamo Guilherme <br><br>✨ Programo desde 2019<br>💼 Atualmente trabalho como Desenvolvedor Fullstack na <a href="https://crmeducacional.com/">CRM Educacional</a><br>🎲 Eu toco 🎹 teclado e jogo ⚽ futebol</p>
+<p align="left">Oi, me chamo Guilherme <br><br>✨ Programo desde 2019<br>💼 Atualmente trabalho como Desenvolvedor Fullstack na <a href="https://base2.com.br/">Base 2</a>
 
 ###
 
