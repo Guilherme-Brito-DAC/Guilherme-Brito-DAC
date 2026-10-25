@@ -105,5 +105,3 @@ Eu esqueci de falar, mas sou muito fã de ⚡🤘 ROCK N' ROLL 🎧⚡ <a href="
 </a>
 
 ###
-
-![](https://komarev.com/ghpvc/?username=Guilherme-Brito-DAC)
